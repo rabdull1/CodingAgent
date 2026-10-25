@@ -6,7 +6,7 @@
 
 ## 📸 Overview
 
-![Coding Agent CLI Screenshot](assets/cli_screenshot.png)
+![Coding Agent CLI Screenshot](Coding_Agent_CLI_Screenshot.png)
 
 *The Coding Agent running in Windows Terminal with dynamic ASCII art, interactive `/help` command menu, and multi-step ReAct reasoning loop.*
 
