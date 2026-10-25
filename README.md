@@ -7,7 +7,7 @@
 ## 📸 Overview
 
 <p align="center">
-  <img src="./Coding_Agent_CLI_Screenshot.png" alt="Coding Agent CLI Screenshot" width="100%" />
+  <img src="Coding_Agent_CLI_Screenshot.png" alt="Coding Agent CLI Screenshot" width="100%" />
 </p>
 
 
