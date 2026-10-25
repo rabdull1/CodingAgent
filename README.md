@@ -7,7 +7,7 @@
 ## 📸 Overview
 
 ![Coding Agent CLI Screenshot](Coding_Agent_CLI_Screenshot.png)
- 
+
 *The Coding Agent running in Windows Terminal with dynamic ASCII art, interactive `/help` command menu, and multi-step ReAct reasoning loop.*
 
 ---
@@ -170,8 +170,7 @@ Agent_from_scratch/
 │
 ├── ⚡ coding_agent.py          # Complete, standalone Coding Agent CLI (Single File)
 ├── 📖 README.md                # Dedicated documentation with screenshot and guide
-├── 🖼️ assets/
-│   └── cli_screenshot.png      # Terminal screenshot
+├── 🖼️ Coding_Agent_CLI_Screenshot.png # Terminal screenshot
 └── 🔑 .env                     # API keys and environment configuration
 ```
 
