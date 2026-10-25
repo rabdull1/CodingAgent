@@ -6,7 +6,10 @@
 
 ## 📸 Overview
 
-![Coding Agent CLI Screenshot](Coding_Agent_CLI_Screenshot.png)
+<p align="center">
+  <img src="./Coding_Agent_CLI_Screenshot.png" alt="Coding Agent CLI Screenshot" width="100%" />
+</p>
+
 
 
 *The Coding Agent running in Windows Terminal with dynamic ASCII art, interactive `/help` command menu, and multi-step ReAct reasoning loop.*
